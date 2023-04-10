@@ -45,20 +45,13 @@ h1 {
 .row {
     /* display: flex => flex container */
     display: flex;
-    /* can't use yet */
-    /* gap: 100px; */
-    /* font-family: 'Roboto Black', sans-serif; */
-
+    gap: 10px;
 }
 
 .col {
     /* these are now flex items */
     width: 100%;
 
-}
-
-.col+.col {
-    margin-left: 10px;
 }
 
 .container .row h2 {

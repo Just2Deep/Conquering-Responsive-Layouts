@@ -83,13 +83,13 @@ h1 {
     padding: 3em;
 }
 
-.section {
-    margin: 3em 30px;
+.main {
+    margin-top: 3em;
 }
 
-.section__text h2 {
+.section-title {
     color: #136C72;
-    font-size: 36px;
+    font-size: 2.5rem;
 }
 
 .btn {

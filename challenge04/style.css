@@ -75,13 +75,14 @@ h1 {
     margin-bottom: 3em;
 }
 
-.section {
-    background: #136C72;
-    color: #fff;
+.three-col {
+    padding: 3em 0;
 }
 
-.container .col {
-    margin: 3em 10px;
+.two-col {
+    padding: 3em 0;
+    background: #136C72;
+    color: #fff;
 }
 
 .btn {

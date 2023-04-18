@@ -12,7 +12,7 @@ img {
 }
 
 .container {
-    width: min(80%, 1100px);
+    width: min(80%, 1192px);
     margin: 0 auto;
     padding: 5rem 0;
 }

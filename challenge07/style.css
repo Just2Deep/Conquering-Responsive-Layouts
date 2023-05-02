@@ -40,6 +40,8 @@ img {
 
 }
 
+/* Add line height property if there is too much gap between lines of text */
+
 .hero--text p {
     color: #824936;
     font-size: 3.75rem;
